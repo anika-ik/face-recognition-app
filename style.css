@@ -1,0 +1,31 @@
+body{
+    
+    background-color: rgb(121, 78, 110);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object, #result_object_name , #result_object_accuracy{
+    color: rgb(238, 180, 180);
+}
+#camera{
+    border: 2px dashed black;
+    width: 350;
+    height: 300px;
+}
+p{
+    color: white;
+}
+b{
+    font-size: 20px;
+    color: rgb(7, 1, 1);
+}
+
+.child{
+    background-color: blue;
+}
+
+.dad{
+    background-color: blue;
+}
